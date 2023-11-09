@@ -3,10 +3,12 @@
 Hashing
   1. Separate Chain Hashing
   2. Probe Based Hashing
+
 Disjoint Sets
   1. Naive Implementation
   2. Uptree Implementation
   3. Smart Union and Path Compression
+
 Graphs
   1. Edge List Implementation
   2. Adjacency Matrix Implementation
